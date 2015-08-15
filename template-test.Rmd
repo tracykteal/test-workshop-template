@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Learning Templates in R"
 output:
   dcTemplate::dc_lesson_template:
     fig_width: 6
